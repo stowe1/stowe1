@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning react, Postgres and Node.js!
 - 📫 How to reach me
 
+Stats!
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=stowe1&theme=dark" alt="GitHub Streak" /></a>
