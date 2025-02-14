@@ -19,6 +19,6 @@
 
 <p align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,postgres,rabbitmq,rust,postman,ts,redux,tailwind,nestjs,cpp,docker,git,github,linux,nextjs,py,regex,mysql,mongodb,java,css,js,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,postgres,rabbitmq,postman,ts,redux,tailwind,nestjs,docker,git,github,linux,nextjs,py,mysql)](https://skillicons.dev)
 
 </p>
