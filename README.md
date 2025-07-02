@@ -13,7 +13,6 @@
 ## 📚 Socials
 
 - 📧 Personal Email: [sethmtowe@gmail.com](mailto:sethmtowe@gmail.com)
-- 💻 Website: [https://stowe1.github.io/personal-website](https://stowe1.github.io/personal-website)
 
 ## My Skills
 
