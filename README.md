@@ -18,6 +18,6 @@
 
 <p align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,postgres,rabbitmq,postman,ts,redux,tailwind,nestjs,docker,git,github,py,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,postgres,rabbitmq,ts,tailwind,nestjs,docker,py)](https://skillicons.dev)
 
 </p>
