@@ -1,14 +1,6 @@
-## Hi there 👋
-
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=stowe1&theme=dark" alt="GitHub Streak" /></a>
 
-## Thanks for checking out my GitHub!
-
-- 💻 Developer @ [Tune](https://velbit.app/tune), [SupplyPike](https://www.supplypike.com/)!
-- 🔍 Learn more about me [here](https://stowe1.github.io/personal-website/)!
-
-## 📚 Socials
+- 💻 Developer @[SupplyPike](https://www.supplypike.com/)!
 
 - 📧 Personal Email: [sethmtowe@gmail.com](mailto:sethmtowe@gmail.com)
 
